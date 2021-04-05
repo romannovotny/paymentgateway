@@ -1,6 +1,6 @@
 <?php
 
-$url = "https://iapi.iplatebnibrana.csob.cz/api/v1.7";
+$url = "https://iapi.iplatebnibrana.csob.cz/api/v1.8";
 $publicKey = "mips_iplatebnibrana.csob.cz.pub";
 
 // set up your merchant ID
